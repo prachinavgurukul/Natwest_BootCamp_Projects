@@ -1,0 +1,17 @@
+table{
+    width: 18vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin: auto;
+    background-color: blanchedalmond;
+    
+}
+td{
+    width: 12vw;
+    height: 5vh;
+    border: 1px solid black;
+    /* margin: auto; */
+}
+h1{
+    text-align: center;
+}

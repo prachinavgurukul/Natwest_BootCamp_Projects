@@ -1,0 +1,24 @@
+#loginpage{
+    width: 12vw;
+    height: 30vh;
+    border: 3px solid black;
+    margin: auto;
+    text-align: center;
+    margin-top: 5vh;
+    background-color: antiquewhite;
+
+}
+h1{
+    text-align: center;
+}
+.btn{
+    width: 5vw;
+    height: 4vh;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(27, 148, 218);
+}
+
+
